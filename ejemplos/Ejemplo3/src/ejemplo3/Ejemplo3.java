@@ -19,7 +19,7 @@ package ejemplo3;
 public class Ejemplo3 {
 
     public static void main(String[] args) {
-        // Condicionales aninados
+        // Condicionales anidados
         // >= 7.5 Aprobado
         // >= 5 and < 7.5 Suspenso
         // >= 3 and < 5 Recuperacion
